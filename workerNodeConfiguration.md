@@ -41,6 +41,13 @@ Below is a step-by-step guide to help you achieve this:
    
      Provide your username, private key, and passphrase if used.
 
+
+![image](https://github.com/discover-devops/mynewJenkins/assets/53135263/7bce5793-9a66-4a73-ab05-51ce109cb110)
+
+
+
+
+
 6. Click "Save" to save the configuration.
 
 ### Step 4: Verify Connection
