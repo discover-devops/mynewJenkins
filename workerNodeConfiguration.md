@@ -42,7 +42,8 @@ Below is a step-by-step guide to help you achieve this:
      Provide your username, private key, and passphrase if used.
 
 
-![image](https://github.com/discover-devops/mynewJenkins/assets/53135263/7bce5793-9a66-4a73-ab05-51ce109cb110)
+![image](https://github.com/discover-devops/mynewJenkins/assets/53135263/0fa55348-4101-4a19-8165-d2e441a868b8)
+
 
 
 
